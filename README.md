@@ -57,9 +57,9 @@ The following four weight files are required to run the project:
 
 ### A. Run Shot Counting
 
-1.  **Input File:** Place the video file to be analyzed in the `soccer/soccer_input/` folder.
-2.  **Execution:** Run the `soccer/shoot_count.ipynb` file.
-3.  **Output:** The analyzed video is saved as `soccer/soccer_output/optimized_{input_file_name}.mp4`.
+1.  **Input File:** Place the video file to be analyzed in the `soccer_count/soccer_input/` folder.
+2.  **Execution:** Run the `soccer_count/shoot_count.ipynb` file.
+3.  **Output:** The analyzed video is saved as `soccer_count/soccer_output/optimized_{input_file_name}.mp4`.
 
 ### B. Run Player Tracking
 
